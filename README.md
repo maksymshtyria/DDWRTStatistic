@@ -1,6 +1,7 @@
 # DDWRTStatistic
 
-TODO: Write a gem description
+This gem collects statistics from routers DDWRT for telnet and writes to the database.
+At this time it works only with Atheros chipset but...
 
 ## Installation
 
