@@ -9,7 +9,7 @@ Gem::Specification.new do |gem|
   gem.authors       = ["maksym.shtyria"]
   gem.email         = ["maksym.shtyria@yandex.ru"]
   gem.description   = %q{This gem collects statistics from routers DDWRT for telnet and writes to the database}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.summary       = %q{Somethin}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
